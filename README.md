@@ -6,7 +6,7 @@
   Programação Concorrente: Java Thread
 </h3>
 
-<p align="center">Exemplo de threads contadoras</p>
+<p align="center">Exemplo corrida de cavalos com JavaFX</p>
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ravarmes/threads-corridacavalosclassificacao-javafx?color=%2304D361">
